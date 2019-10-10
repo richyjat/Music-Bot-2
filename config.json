@@ -1,7 +1,7 @@
 {
-  "token": "BOT TOKEN HERE",
-  "ytapikey": "YOUTUBE API KEY",
-  "ownerid": "YOUR ID",
+  "token": "NjA3NTIyNzM0MTYyOTY4NTc3.XZ-XBg.yfn7Wncg5AM2tA1tOzWvDTx2qns",
+  "ytapikey": "AIzaSyCwRa73oEPXGE9kJOQptANXASSUZ09PDM4",
+  "ownerid": "556037595965161512",
   "defaultSettings": {
     "prefix": "-",
     "ratelimit": false,
