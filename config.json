@@ -1,0 +1,12 @@
+{
+  "token": "BOT TOKEN HERE",
+  "ytapikey": "YOUTUBE API KEY",
+  "ownerid": "YOUR ID",
+  "defaultSettings": {
+    "prefix": "-",
+    "ratelimit": false,
+    "djonly": false,
+    "djrole": "dj",
+    "maxqueuelength": 20
+  }
+}
